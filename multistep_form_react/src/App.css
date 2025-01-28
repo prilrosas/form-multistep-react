@@ -44,7 +44,7 @@ label {
   font-size: 0.9rem;
 }
 
-.input,
+input,
 textarea {
   padding: 0.6rem;
   border: none;
